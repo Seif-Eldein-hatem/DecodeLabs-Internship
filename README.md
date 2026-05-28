@@ -1,6 +1,6 @@
 # SecurePass Analyzer
 
-SecurePass Analyzer is a futuristic Python desktop application for password strength analysis, security scoring, hashing, and password generation. It is designed as a portfolio-ready cybersecurity tool with a premium cyberpunk dashboard style.
+SecurePass Analyzer is a futuristic Python desktop application for password strength analysis, security scoring, hashing, and password generation. It is designed as a cybersecurity tool with a premium cyberpunk dashboard style.
 
 ## Features
 
@@ -19,10 +19,7 @@ SecurePass Analyzer is a futuristic Python desktop application for password stre
 
 ## Screenshots
 
-Add screenshots to the following placeholders to showcase the interface:
-
 - `assets/images/screenshot-home.png`
-- `assets/images/screenshot-analysis.png`
 - `assets/images/screenshot-generator.png`
 
 ## Installation
@@ -88,4 +85,4 @@ project/
 
 ## Author
 
-Built for the DecodeLabs Cyber Security internship portfolio.
+Built by Seif Eldein for the DecodeLabs Cyber Security intern.
