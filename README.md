@@ -19,8 +19,8 @@ SecurePass Analyzer is a futuristic Python desktop application for password stre
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/screenshot-home.png)
-![Generatir Screen](assets/screenshots/screenshot-generator.png)
+![Home Screen](assets/images/screenshot-home.png)
+![Generatir Screen](assets/images/screenshot-generator.png)
 
 
 ## Installation
